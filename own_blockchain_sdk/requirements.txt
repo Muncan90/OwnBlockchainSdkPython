@@ -3,3 +3,4 @@ coincurve==13.0.0
 ecdsa==0.15
 pytest==3.3.2
 simplejson==3.17.0
+setuptools==39.0.1
